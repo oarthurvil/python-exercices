@@ -1,5 +1,5 @@
-# Python exercices
-Python exercices from [Python Brasil](https://wiki.python.org.br/ListaDeExercicios).
+# Python exercise
+Python exercise from [Python Brasil](https://wiki.python.org.br/PythonBrasil)..
 
 ## Table of contents
 
@@ -17,12 +17,12 @@ Python exercices from [Python Brasil](https://wiki.python.org.br/ListaDeExercici
 
 Users should be able to:
 
-- Exercices lists.
+- Exercise lists.
 
 
 ### Links
 
-- Link: [Python Brasil](https://wiki.python.org.br/ListaDeExercicios).
+- Link: [Python Brasil exercise list](https://wiki.python.org.br/ListaDeExercicios).
 
 
 ## My process
