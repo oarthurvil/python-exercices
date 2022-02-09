@@ -1,5 +1,5 @@
 # Python exercise
-Python exercise from [Python Brasil](https://wiki.python.org.br/PythonBrasil)..
+Python exercise from [Python Brasil](https://wiki.python.org.br/PythonBrasil).
 
 ## Table of contents
 
